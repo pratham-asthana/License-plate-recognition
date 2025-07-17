@@ -1,0 +1,6 @@
+path: dataset_split
+train: train/images
+val: test/images
+
+names:
+  0: license numer
